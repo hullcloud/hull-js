@@ -1,6 +1,6 @@
 # hull-js
 
-hull-js is a javascript micro-framework for building applications.
+hull-js is a micro-framework for building applications using JavaScript.
 
 It is work in progress.
 
