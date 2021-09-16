@@ -1,13 +1,19 @@
 # hull-js
 
-hull-js is a javascript (non)framework for building robust applications.
+hull-js is a javascript micro-framework for building applications.
 
-It is a set of simple principles for building applications using plain javascript rather than a bulky framework.
+It is work in progress.
 
-* Normal Javascript code
+Here are the simple principles of the project.
+
+* Vanilla Javascript code
 * No bulky framework
 * Responsive apps
 * Desktop or mobile layouts
 * Reusable components
-* Testable using jasmine
-* Simple loading of components, no routing systems
+
+Getting started:
+Download AppComponent.js
+Add to you main index.html page as a script.
+Extend a JS class with AppComponent.
+Add components to your application with the appendChild.
