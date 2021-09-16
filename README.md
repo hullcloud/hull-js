@@ -12,8 +12,9 @@ Here are the simple principles of the project.
 * Desktop or mobile layouts
 * Reusable and encapsulated components
 
-Getting started:
-Download AppComponent.js
-Add to you main index.html page as a script.
-Extend a JS class with AppComponent.
-Add components to your application with the appendChild.
+Getting started:  
+Download the project files  
+Create a new component file and extend with AppComponent  
+Add the new component to the App page using appendChild()  
+Add a reference to the new component to index.html as a script  
+Run index.html, and sail!
