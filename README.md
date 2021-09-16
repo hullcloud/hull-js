@@ -10,7 +10,7 @@ Here are the simple principles of the project.
 * No bulky framework
 * Responsive apps
 * Desktop or mobile layouts
-* Reusable components
+* Reusable and encapsulated components
 
 Getting started:
 Download AppComponent.js
